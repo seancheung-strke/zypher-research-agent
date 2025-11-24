@@ -4,6 +4,10 @@
 
 The Zypher Research System is an autonomous AI agent designed for advanced academic research and analysis. Built upon the **Zypher Framework**, this application leverages **Claude 4 Sonnet** for reasoning and **Firecrawl MCP** for external data retrieval. It provides a full-stack solution including a RESTful backend and a responsive web interface for analyzing research papers and conducting follow-up Q&A sessions.
 
+### Demo Video
+
+[Click here to download and watch the Demo Video](./zypher-research-assistant.mov)
+
 ## Key Features
 
 * **Autonomous Data Retrieval**: Integrates with the Firecrawl Model Context Protocol (MCP) server to scrape and parse content from external URLs and research repositories.
